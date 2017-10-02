@@ -19,6 +19,7 @@
   "dependencies": {
     "chalk": "^2.1.0",
     "moment": "^2.18.1",
+    "request-promise-native": "^1.0.5",
     "snekfetch": "^3.4.2",
     "twitter": "^1.7.1"
   }
