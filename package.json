@@ -1,0 +1,25 @@
+{
+  "name": "me_irl",
+  "version": "1.0.0",
+  "description": "im a twitter bot made in javascript that fetches the latest posts from the /r/me_irl reddit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meirl/twitter.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/meirl/twitter/issues"
+  },
+  "homepage": "https://github.com/meirl/twitter#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "moment": "^2.18.1",
+    "snekfetch": "^3.4.2",
+    "twitter": "^1.7.1"
+  }
+}
