@@ -1,5 +1,5 @@
-# Me IRL Twitter Bot
-im a twitter bot made in javascript that fetches the latest posts from the /r/me_irl reddit.
+# Twitter Bot
+⚫ Twitter Bot created in javascript with the twitter node package. 
 
 ## Disclaimer
 Abusing this script can get you banned from twitter if you set it to such a low delay, therefor why I keep it as 30 minutes per tweet.
