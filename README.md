@@ -7,7 +7,7 @@ Abusing this script can get you banned from twitter if you set it to such a low 
 ## Dependencies
 This twitter bot was created in javascript with nodejs which you can install at https://nodejs.org, With the dependencies of the npm packages `twitter`, `snekfetch`, `moment`, `chalk`, `fs` and `request-promise-native`
 ```
-npm install twitter snekfetch moment chalk fs request-promise-native --save
+npm install twitter snekfetch moment chalk request-promise-native --save
 ```
 
 # Setting it Up
